@@ -1,0 +1,22 @@
+{
+  "name": "joel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaowenlong1022/joel.git"
+  },
+  "keywords": [
+    "joel"
+  ],
+  "author": "肖文龙",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaowenlong1022/joel/issues"
+  },
+  "homepage": "https://github.com/xiaowenlong1022/joel#readme"
+}
